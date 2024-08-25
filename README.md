@@ -6,7 +6,7 @@ I'm excited to share my latest Power BI project, a Hospitality Domain Dashboard 
 
 
 ## Dashboard Screenshot:
-![Transaction Report](https://github.com/inamdarmustafa11/Credit-Card-Dashboard/blob/b0af76944ed1849096e6b7778c945c28f477ad6a/Transaction%20Report.jpeg)
+![Dashboard SS](https://github.com/inamdarmustafa11/Hospitality-Domain-Dashboard/blob/ece552f8f73ec9261297fd398d8838b924e7e5ee/Revenue%20Insights%20Hospitality%20SS.jpeg)
 
 ### Here’s a detailed breakdown of what this dashboard offers:
 
