@@ -2,7 +2,7 @@
 I'm excited to share my latest Power BI project, a Hospitality Domain Dashboard designed to provide a holistic view of key performance indicators (KPIs) across the hospitality industry. This dashboard is an essential tool for decision-makers looking to optimize revenue, monitor trends, and enhance overall operational efficiency.
 
 ## Live Dashboard
-[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjdkNmZhNGMtNmNkMy00ZDkwLWI1MjYtNmVkZTU2NjczNWIzIiwidCI6IjMwOTJkZjBiLWRhMjMtNDA1Yi1iZDczLWU5YThmZWEwODM2MSJ9)
+[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTQ4ZDg1NWMtZjZjMC00Nzg5LTg3NTMtNDdhNDVkYjU4ZGM3IiwidCI6IjMwOTJkZjBiLWRhMjMtNDA1Yi1iZDczLWU5YThmZWEwODM2MSJ9)
 
 
 ## Dashboard Screenshot:
