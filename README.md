@@ -5,15 +5,15 @@ I'm excited to share my latest Power BI project, a Hospitality Domain Dashboard 
 [Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjdkNmZhNGMtNmNkMy00ZDkwLWI1MjYtNmVkZTU2NjczNWIzIiwidCI6IjMwOTJkZjBiLWRhMjMtNDA1Yi1iZDczLWU5YThmZWEwODM2MSJ9)
 
 
-### Dashboard Screenshot:
+## Dashboard Screenshot:
 ![Transaction Report](https://github.com/inamdarmustafa11/Credit-Card-Dashboard/blob/b0af76944ed1849096e6b7778c945c28f477ad6a/Transaction%20Report.jpeg)
 
--**Here’s a detailed breakdown of what this dashboard offers:**
+### Here’s a detailed breakdown of what this dashboard offers:
 
--**1. Filters for Precision Analysis:**
+### 1. Filters for Precision Analysis:
 City and Room Class Filters: Easily toggle between different cities and room classes to focus on specific segments of the market, whether it's luxury or business-class rooms in different locations.
 
--**2. Key Performance Indicators (KPIs):**
+### 2. Key Performance Indicators (KPIs):
 
 -Revenue: Displays a total of 1.69bn with a week-on-week increase of 0.2%.
 
@@ -28,14 +28,14 @@ City and Room Class Filters: Easily toggle between different cities and room cla
 -Realisation Percentage: Displays 70.1%, indicating the portion of revenue realized after cancellations and no-shows.
 
 
--**3. Revenue Breakdown by Category:**
+### 3. Revenue Breakdown by Category:
 A pie chart reveals the revenue distribution with 61.62% from Business class and 38.38% from Luxury class.
 
 
--**4. Trend Analysis by Key Metrics:**
+### 4. Trend Analysis by Key Metrics:
 A line chart tracks weekly trends for RevPAR, ADR, and Occupancy Percentage, helping to identify seasonal trends and operational challenges over time.
 
--**5. Property-Specific Metrics:**
+### 5. Property-Specific Metrics:
 A detailed table shows metrics by property, including:
 
 -Revenue and Total Bookings for each property.
@@ -47,9 +47,10 @@ A detailed table shows metrics by property, including:
 -Realisation %, Cancellation %, and Average Rating to assess guest satisfaction and operational efficiency.
 
 
--**6. Realization % and ADR by Platform:**
+### 6. Realization % and ADR by Platform:
 
 A bar and line chart combination offers insights into platform-specific performance, showing how different booking platforms contribute to the overall ADR and realization percentages.
 
--**Conclusion:** This dashboard was built using Power BI and Excel, providing real-time, actionable insights. It enables hotel management to make informed decisions, optimize pricing strategies, and improve occupancy rates across their properties.
+### Conclusion: 
+This dashboard was built using Power BI and Excel, providing real-time, actionable insights. It enables hotel management to make informed decisions, optimize pricing strategies, and improve occupancy rates across their properties.
 
