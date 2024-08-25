@@ -1,4 +1,5 @@
 # Hospitality Domain Dashboard
+Welcome to the Revenue Insights Dashboard repository! This Power BI project is designed to provide an in-depth analysis of key performance indicators (KPIs) across the hospitality industry, enabling decision-makers to optimize revenue, monitor trends, and enhance operational efficiency.
 
 ## Live Dashboard
 [Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTQ4ZDg1NWMtZjZjMC00Nzg5LTg3NTMtNDdhNDVkYjU4ZGM3IiwidCI6IjMwOTJkZjBiLWRhMjMtNDA1Yi1iZDczLWU5YThmZWEwODM2MSJ9)
